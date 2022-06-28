@@ -1,0 +1,1 @@
+In this directory add images the client is not to edit

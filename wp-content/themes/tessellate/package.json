@@ -1,0 +1,37 @@
+{
+  "name": "tessellate",
+  "version": "1.0.0",
+  "description": "=== Tessellate Theme === Contributors: Tessellate Design Studio",
+  "main": "index.js",
+  "scripts": {
+    "development": "mix",
+    "watch": "mix watch",
+    "watch-poll": "mix watch -- --watch-options-poll=1000",
+    "hot": "mix watch --hot",
+    "production": "mix --production"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.3.7",
+    "cross-env": "^7.0.3",
+    "css-loader": "^6.3.0",
+    "exports-loader": "^3.0.0",
+    "laravel-mix": "^6.0.31",
+    "node-sass": "^6.0.1",
+    "postcss-loader": "^6.1.1",
+    "resolve-url-loader": "^4.0.0",
+    "sass": "^1.42.1",
+    "sass-loader": "^12.1.0",
+    "style-loader": "^3.3.0"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.10.2",
+    "bootstrap": "^5.1.2",
+    "bs5-lightbox": "^1.7.8",
+    "rellax": "^1.12.1",
+    "swiper": "^7.3.3",
+    "wait-for-element-transition": "^3.3.0"
+  }
+}

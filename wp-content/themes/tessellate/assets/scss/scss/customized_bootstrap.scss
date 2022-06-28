@@ -1,0 +1,23 @@
+// //Custom breakpoints for bootstrap
+
+$grid-breakpoints: (
+  xxs : 0,
+  xs: 400px,
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  xl: 1200px,
+  xxl: 1400px,
+  laptop: 1500px,
+  xxxl: 1920px
+);
+
+//custom colours
+
+$primary: #233474;
+$secondary: #832232;
+
+$theme-colors: (
+  "primary": $primary,
+  "secondary":  $secondary,
+);
